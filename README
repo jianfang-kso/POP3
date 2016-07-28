@@ -1,0 +1,5 @@
+POP3Server.java is the main class. To edit the MySQL connection settings, please edit Database.java
+
+UserInterface.java is the main class for the POP3Client.
+
+Port 8080 is used as port 110 is reserved specially for system applications (sudo is required to execute the Java bytecode if port 110 is to be used). To edit the port, please head to POP3Server.java. All settings are defined as constants.
